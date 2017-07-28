@@ -24,6 +24,7 @@ const sessionReducer = createReducer({
   }),
   [sessionsError]: (state, payload) => ({
     ...state,
+    fetchingAuth: false,
     error: payload.error
   }),
   [userSignedOut]: (state, payload) => ({

@@ -33,7 +33,9 @@ const Routes = (props) => {
 const Loader = () => (
   <div id="public_container" className="application-container">
     <div className='main-container'>
-      <img src='/images/poutine.jpg' style={{width: '100%'}} />
+      <div style={{ display: 'flex', alignItems: 'center'}} >    
+        <img src='/images/poutineer.png' style={{margin: '0 auto'}} />
+      </div>
     </div>
   </div>
 );
@@ -41,7 +43,7 @@ const Loader = () => (
 
 const FetchingAuth = (props) => !props.fetchingAuth ?
   Routes(props) :
-    <Router>
+  <Router>
       <MainLayout>
         <Route component={Loader}/>
       </MainLayout>

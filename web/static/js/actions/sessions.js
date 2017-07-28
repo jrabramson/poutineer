@@ -46,12 +46,9 @@ export const signIn = (email, password) => dispatch => {
     setCurrentUser(dispatch, data.data.user);
   })
   .catch((error) => {
-    error.response.json()
-    .then((errorJSON) => {
-      dispatch(sessionsError({
-        error: errorJSON.error
-      }));
-    });
+    dispatch(sessionsError({
+      error: error.message
+    }));
   });
 };
 
@@ -65,8 +62,10 @@ export const getCurrentUser = () => dispatch => {
   .then(function (data) {
     setCurrentUser(dispatch, data.data);
   })
-  .catch(function (error) {
-    console.log(error);
+  .catch((error, msg) => {
+    dispatch(sessionsError({
+      error: ''
+    }));
   });
 };
 
@@ -87,6 +86,8 @@ export const signOut = () => dispatch => {
     dispatch(userSignedOut());
   })
   .catch(function (error) {
-    console.log(error);
+    dispatch(sessionsError({
+      error: error.message
+    }));
   });
 };

@@ -1,10 +1,8 @@
 * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 body {
-  margin: 0px;
-}
+  margin: 0px; }
 
 .main-header {
   background: #b90022;
@@ -12,9 +10,8 @@ body {
   padding: 0 1em;
   color: #fff;
   position: relative;
-  height: 40px;
-
-  .logo {
+  height: 40px; }
+  .main-header .logo {
     display: inline-block;
     background: url(/images/poutineer.png) 0 0 no-repeat;
     background-size: 100%;
@@ -22,44 +19,35 @@ body {
     width: 45px;
     position: absolute;
     top: 5px;
-    left: 22px;
-  }
-
-  nav {
+    left: 22px; }
+  .main-header nav {
     float: left;
     margin: 0;
     padding: 0;
-    margin-top: 5px;
-
-    &.right {
-      float: right;
-    }
-
-    ul {
+    margin-top: 5px; }
+    .main-header nav.right {
+      float: right; }
+    .main-header nav ul {
       list-style: none;
       display: inline-block;
       margin: 0;
       -webkit-margin-before: 0;
-      -webkit-padding-start: 0;
-
-      li {
-        display: inline-block;
-
-        a {
+      -webkit-padding-start: 0; }
+      .main-header nav ul li {
+        display: inline-block; }
+        .main-header nav ul li a {
           transition: all;
-          color: rgba(#fff, .5);
-          background: rgba(#fff, .15);
+          color: rgba(255, 255, 255, 0.5);
+          background: rgba(255, 255, 255, 0.15);
           border-radius: 3px;
           padding: .3em .5em;
-          line-height: 1em;
-
-          &.current-user {
+          line-height: 1em; }
+          .main-header nav ul li a.current-user {
             position: relative;
             overflow: hidden;
             padding-left: 35px;
-            margin-right: .5em;
-
-            .react-gravatar {
+            margin-right: .5em; }
+            .main-header nav ul li a.current-user .react-gravatar {
               width: 30px;
               height: 30px;
               border-radius: 3px;
@@ -67,35 +55,23 @@ body {
               position: absolute;
               top: 50%;
               margin-top: -15px;
-              left: 0;
-            }
-          }
-
-          .fa {
-            color: #fff;
-          }
-
-          &:hover {
-            color: #fff;
-          }
-        }
-      }
-    }
-  }
-}
+              left: 0; }
+          .main-header nav ul li a .fa {
+            color: #fff; }
+          .main-header nav ul li a:hover {
+            color: #fff; }
 
 .main-container {
   width: 100vw;
   height: calc(100vh - 40px);
   background: #a2263d;
-  padding: 25px;
-
-  .view-container {
+  padding: 25px; }
+  .main-container .view-container {
     width: 800px;
     height: 80vh;
     margin: 0 auto;
     padding: 10px;
     border: 1px solid;
-    border-radius: 15px;
-  }
-}
+    border-radius: 15px; }
+
+/*# sourceMappingURL=app.css.map*/

@@ -1,7 +1,6 @@
 import axios from 'axios';
 import { createAction } from 'redux-act';
 import { setCurrentUser }   from './sessions';
-import GoogleApi from '../lib/googleapi';
 
 export const placesReceived = createAction('PLACES_RECEIVED');
 
@@ -15,7 +14,6 @@ export const getPlaces = (google, map, location) => dispatch => {
   };
 
   service.nearbySearch(request, function(results, status) {
-    console.log(results);
     dispatch(placesReceived({ places: results }));
   })
 };

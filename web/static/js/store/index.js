@@ -9,7 +9,10 @@ const loggerMiddleware = createLogger({
 });
 
 export default function configureStore() {
-  const createStoreWithMiddleware = applyMiddleware(thunkMiddleware, loggerMiddleware)(createStore);
+  const createStoreWithMiddleware = applyMiddleware(
+    thunkMiddleware,
+    loggerMiddleware
+  )(createStore);
 
   return createStoreWithMiddleware(reducers);
 }

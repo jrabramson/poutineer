@@ -4,18 +4,11 @@ import axios from 'axios';
 import configureStore from './store';
 import Root from './containers/root';
 
-const defaultHeaders = {
+axios.defaults.headers = {
   Accept: 'application/json',
   'Content-Type': 'application/json',
+  Authorization: localStorage.getItem('phoenixAuthToken')
 };
-
-function buildHeaders() {
-  const authToken = localStorage.getItem('phoenixAuthToken');
-
-  return { ...defaultHeaders, Authorization: authToken };
-}
-
-axios.defaults.headers = buildHeaders();
 
 const store = configureStore();
 
