@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.main-header {
+  background: #b90022;
+  line-height: 1.8em;
+  padding: 0 1em;
+  color: #fff;
+  position: relative;
+  height: 40px;
+
+  .logo {
+    display: inline-block;
+    background: url(/images/poutine.jpg) 0 0 no-repeat;
+    background-size: cover;
+    height: 30px;
+    width: 32px;
+    position: absolute;
+    top: 5px;
+    left: 0%;
+  }
+
+  nav {
+    float: left;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+
+    &.right {
+      float: right;
+    }
+
+    ul {
+      list-style: none;
+      display: inline-block;
+      margin: 0;
+      -webkit-margin-before: 0;
+      -webkit-padding-start: 0;
+
+      li {
+        display: inline-block;
+
+        a {
+          transition: all;
+          color: rgba(#fff, .5);
+          background: rgba(#fff, .15);
+          border-radius: 3px;
+          padding: .3em .5em;
+          line-height: 1em;
+
+          &.current-user {
+            position: relative;
+            overflow: hidden;
+            padding-left: 35px;
+            margin-right: .5em;
+
+            .react-gravatar {
+              width: 30px;
+              height: 30px;
+              border-radius: 3px;
+              margin-right: .5em;
+              position: absolute;
+              top: 50%;
+              margin-top: -15px;
+              left: 0;
+            }
+          }
+
+          .fa {
+            color: #fff;
+          }
+
+          &:hover {
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}
+
+.main-container {
+  width: 100vw;
+  height: calc(100vh - 40px);
+  background: #a2263d;
+  padding: 25px;
+
+  .view-container {
+    width: 800px;
+    height: 80vh;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 15px;
+  }
+}
