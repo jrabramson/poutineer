@@ -46,6 +46,11 @@ button {
   .main-header svg {
     height: 50px;
     fill: #FFFFFF; }
+  .main-header a img {
+    position: absolute;
+    width: 100px;
+    top: 7px;
+    z-index: 10; }
   .main-header nav {
     height: 48px;
     margin: 0;

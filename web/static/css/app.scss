@@ -44,6 +44,14 @@ button {
     height: 50px;
     fill: #FFFFFF;
   }
+  a {
+    img {
+      position: absolute;
+      width: 100px;
+      top: 7px;
+      z-index: 10;
+    }
+  }
   nav {
     height: 48px;
     margin: 0;

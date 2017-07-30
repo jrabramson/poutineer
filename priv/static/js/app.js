@@ -31349,11 +31349,11 @@
 	
 	var _home2 = _interopRequireDefault(_home);
 	
-	var _new = __webpack_require__(360);
+	var _new = __webpack_require__(359);
 	
 	var _new2 = _interopRequireDefault(_new);
 	
-	var _new3 = __webpack_require__(362);
+	var _new3 = __webpack_require__(361);
 	
 	var _new4 = _interopRequireDefault(_new3);
 	
@@ -35079,24 +35079,7 @@
 	    _react2.default.createElement(
 	      _reactRouterDom.Link,
 	      { to: '/' },
-	      _react2.default.createElement(
-	        'svg',
-	        { x: '0px', y: '0px', viewBox: '0 0 100 87.888' },
-	        _react2.default.createElement('path', { d: 'M34.887,24.008c-0.546,0-1.091-0.221-1.489-0.656c-3.745-4.102-1.275-7.203,0.201-9.056c1.547-1.941,2.48-3.114,0.82-5.874  c-0.574-0.954-0.266-2.192,0.688-2.766c0.954-0.574,2.192-0.266,2.766,0.688c3.103,5.159,0.561,8.35-1.121,10.462  c-1.493,1.875-1.804,2.265-0.377,3.828c0.75,0.822,0.692,2.097-0.129,2.847C35.859,23.834,35.372,24.008,34.887,24.008z' }),
-	        _react2.default.createElement('path', { d: 'M47.201,18.64c-0.546,0-1.091-0.221-1.489-0.656c-3.77-4.129-1.284-7.224,0.201-9.073c1.549-1.928,2.484-3.091,0.82-5.856  c-0.574-0.954-0.266-2.192,0.688-2.766c0.955-0.573,2.192-0.266,2.766,0.688c3.114,5.175,0.457,8.482-1.131,10.459  c-1.533,1.908-1.809,2.251-0.367,3.831c0.75,0.822,0.692,2.096-0.129,2.847C48.173,18.466,47.686,18.64,47.201,18.64z' }),
-	        _react2.default.createElement('path', { d: 'M61.385,21.943c-0.547,0-1.091-0.221-1.488-0.656c-3.771-4.129-1.284-7.224,0.201-9.073  c1.548-1.928,2.483-3.091,0.819-5.857c-0.574-0.954-0.266-2.192,0.688-2.766c0.955-0.574,2.193-0.266,2.766,0.688  c3.113,5.174,0.457,8.482-1.131,10.458c-1.532,1.908-1.809,2.252-0.367,3.831c0.751,0.822,0.692,2.097-0.129,2.847  C62.356,21.769,61.87,21.943,61.385,21.943z' }),
-	        _react2.default.createElement('path', { d: 'M50.385,87.888c-10.732,0-22.093-1.014-26.267-2.542c-1.106-0.405-5.293-2.776-12.703-16.288  c-0.535-0.977-0.178-2.201,0.798-2.736c0.977-0.533,2.201-0.178,2.736,0.798c3.492,6.366,8.521,13.697,10.555,14.442  c3.264,1.195,12.924,2.148,22.971,2.267c12.216,0.152,19.535-0.942,21.365-2.085c2.201-1.372,7.509-10.241,10.575-16.101  c0.515-0.986,1.731-1.365,2.72-0.852c0.986,0.517,1.367,1.733,0.852,2.721c-1.318,2.518-8.091,15.205-12.013,17.652  C68.878,87.094,59.878,87.888,50.385,87.888z' }),
-	        _react2.default.createElement('path', { d: 'M99.888,53.068l-2.141-6.147c-0.228-0.652-0.772-1.143-1.445-1.299l-13.603-3.173c-1.08-0.255-2.168,0.421-2.42,1.505  c-0.252,1.083,0.421,2.168,1.505,2.42l12.521,2.92l1.333,3.828l-3.694,3.29l-19.753-5.381c-0.817-0.221-1.654,0.097-2.136,0.734  c-0.415-0.087-0.859-0.051-1.271,0.145c-1.005,0.477-1.435,1.679-0.958,2.685l2.414,5.098l-0.998-0.674l-0.703-2.139  c-0.207-0.628-0.709-1.115-1.344-1.303L51.83,51.043c-1.07-0.315-2.188,0.295-2.503,1.361c-0.315,1.067,0.295,2.188,1.362,2.503  l14.352,4.235l0.752,2.285l-4.136,2.849l-14.237-6.342c-1.017-0.45-2.208,0.004-2.661,1.021c-0.453,1.017,0.004,2.208,1.021,2.661  l4.805,2.14l-1.64,1.188c-0.126,0.092-0.228,0.207-0.327,0.321l-1.362-1.536c-0.736-0.832-2.011-0.91-2.845-0.172  c-0.833,0.738-0.91,2.012-0.171,2.844l4.892,5.521l-0.978,3.249l-4.858-0.306l-7.587-9.543c-0.212-0.266-0.479-0.454-0.77-0.581  l2.335-6.694c0.367-1.051-0.188-2.2-1.239-2.566c-1.05-0.367-2.2,0.188-2.566,1.238l-3.792,10.866h-3.756l-1.326-4.312l5.13-9.327  c0.536-0.976,0.18-2.2-0.795-2.736c-0.975-0.539-2.199-0.181-2.737,0.794L20.652,62.08c-0.194,0.353-0.274,0.752-0.239,1.146  l-5.127,2.753l-4.195-0.771l-1.223-4.976l9.182-5.531c0.022-0.015,0.04-0.032,0.062-0.047l1.476-0.043  c1.113-0.032,1.988-0.961,1.955-2.073c-0.032-1.112-0.969-2.008-2.073-1.955L8.108,50.947l-3.987-1.891l0.378-5.416l14.039,2.503  c1.092,0.197,2.142-0.534,2.337-1.631c0.195-1.095-0.534-2.141-1.63-2.336L2.999,39.279c-0.564-0.104-1.143,0.043-1.593,0.395  c-0.451,0.352-0.731,0.878-0.771,1.449l-0.63,9.025c-0.058,0.827,0.397,1.605,1.147,1.962l1.426,0.676L0.983,55.11  c-0.521,0.76-0.461,1.774,0.145,2.468l4.408,5.037c0.252,0.288,0.571,0.476,0.911,0.584l1.042,4.237  c0.189,0.771,0.813,1.358,1.593,1.501l6.171,1.134c0.121,0.022,0.243,0.033,0.364,0.033c0.331,0,0.659-0.082,0.954-0.24l5.008-2.689  l0.929,3.019c0.26,0.846,1.042,1.422,1.926,1.422h6.675c0.857,0,1.62-0.542,1.902-1.351l0.451-1.291l7.237,9.103  c0.355,0.446,0.882,0.722,1.451,0.757l7.347,0.461c0.043,0.003,0.085,0.004,0.127,0.004c0.884,0,1.671-0.578,1.929-1.435  l0.901-2.995l6.679,0.766c0.077,0.009,0.153,0.013,0.23,0.013c0.819,0,1.568-0.5,1.874-1.277l1.279-3.253l0.843,1.49  c0.359,0.638,1.033,1.024,1.753,1.024c0.078,0,0.155-0.004,0.233-0.014l8.69-1.008c0.536-0.062,1.024-0.336,1.356-0.763  c0.333-0.426,0.479-0.967,0.408-1.502l-0.05-0.382c0.223,0.083,0.456,0.142,0.698,0.142c0.285,0,0.574-0.061,0.851-0.189  l8.375-3.904c0.488-0.227,0.865-0.64,1.047-1.147c0.181-0.507,0.151-1.066-0.082-1.552l-2.306-4.796l7.605,2.072  c0.174,0.047,0.353,0.07,0.529,0.07c0.488,0,0.967-0.177,1.34-0.511l5.517-4.911C99.934,54.694,100.156,53.838,99.888,53.068z   M6.517,57.546c-0.013,0.009-0.021,0.021-0.034,0.029L5.191,56.1l1.074-1.566l0.554,0.263c0.27,0.128,0.565,0.194,0.863,0.194  c0.02,0,0.04,0,0.059-0.001l3.175-0.094L6.517,57.546z M58.054,71.453l-4.729-0.542c-0.037-0.136-0.079-0.271-0.144-0.397  l-0.771-3.102l2.429-1.759l4.677,2.083L58.054,71.453z M66.21,69.459l-1.393-2.466l4.474-3.081l1.752,1.183l0.494,3.746  L66.21,69.459z M82.124,63.22l-4.712,2.196l-4.777-10.088l6.552,1.784L82.124,63.22z' }),
-	        _react2.default.createElement('path', { d: 'M51.089,33.055c1.093,0.162,2.126-0.596,2.29-1.697l0.476-3.204l4.611,0.422l-0.499,2.199  c-0.246,1.085,0.435,2.165,1.52,2.411c0.149,0.034,0.3,0.05,0.447,0.05c0.92,0,1.752-0.635,1.963-1.57l1.008-4.441  c0.129-0.566,0.007-1.16-0.334-1.63c-0.342-0.47-0.869-0.77-1.447-0.822l-8.798-0.806c-1.082-0.097-2.02,0.654-2.178,1.71  l-0.755,5.088C49.229,31.866,49.989,32.891,51.089,33.055z' }),
-	        _react2.default.createElement('path', { d: 'M8.633,50.44c0.062,0.012,0.124,0.017,0.184,0.017c0.477,0,0.9-0.34,0.99-0.824l0.601-3.253  c0.098-0.533-0.243-1.049-0.772-1.167l-2.364-0.525c-0.541-0.116-1.082,0.222-1.202,0.766c-0.121,0.543,0.222,1.081,0.765,1.202  l1.416,0.313l-0.425,2.298C7.725,49.813,8.086,50.338,8.633,50.44z' }),
-	        _react2.default.createElement('path', { d: 'M15.954,64.94c0.557,0,1.008-0.45,1.008-1.008v-2.979c0-0.514-0.386-0.945-0.896-1.002l-3.779-0.42  c-0.554-0.055-1.051,0.336-1.112,0.891c-0.062,0.553,0.337,1.051,0.89,1.112l2.883,0.32v2.078  C14.946,64.49,15.397,64.94,15.954,64.94z' }),
-	        _react2.default.createElement('path', { d: 'M28.895,66.074c0.556,0,1.007-0.451,1.007-1.008v-1.763c0-0.558-0.451-1.008-1.007-1.008h-2.257  c-0.556,0-1.007,0.45-1.007,1.008c0,0.557,0.451,1.007,1.007,1.007h1.25v0.756C27.887,65.623,28.338,66.074,28.895,66.074z' }),
-	        _react2.default.createElement('path', { d: 'M44.231,74.086c0.035,0.003,0.069,0.005,0.103,0.005c0.511,0,0.949-0.386,1.001-0.904l0.122-1.197l1.097,0.05  c0.531,0.045,1.027-0.405,1.052-0.962c0.025-0.556-0.405-1.026-0.961-1.052l-2.048-0.092c-0.53-0.035-0.994,0.372-1.048,0.904  l-0.217,2.144C43.274,73.536,43.678,74.031,44.231,74.086z' }),
-	        _react2.default.createElement('path', { d: 'M62.619,58.761c-0.354-0.432-0.988-0.495-1.418-0.143l-1.386,1.133c-0.318,0.261-0.446,0.689-0.323,1.083l0.504,1.605  c0.135,0.43,0.532,0.705,0.961,0.705c0.1,0,0.202-0.015,0.302-0.046c0.531-0.166,0.826-0.732,0.66-1.264l-0.301-0.955l0.858-0.701  C62.907,59.826,62.972,59.191,62.619,58.761z' }),
-	        _react2.default.createElement('path', { d: 'M92.79,49.788c-0.325-0.452-0.954-0.553-1.406-0.228l-2.427,1.751c-0.228,0.163-0.376,0.415-0.41,0.693  c-0.034,0.277,0.048,0.558,0.229,0.772l1.775,2.107c0.2,0.236,0.484,0.358,0.771,0.358c0.229,0,0.46-0.078,0.648-0.237  c0.426-0.358,0.479-0.994,0.121-1.42l-1.075-1.277l1.545-1.114C93.014,50.869,93.115,50.239,92.79,49.788z' }),
-	        _react2.default.createElement('path', { d: 'M26.807,37.026c0.114-0.596-0.034-1.234-0.469-1.722l-2.713-3.034l3.154-1.664l2.993,3.835  c0.06,0.077,0.129,0.141,0.197,0.207c0.688-0.312,1.426-0.32,2.148,0.412c0.168-0.068,0.333-0.152,0.483-0.27  c0.877-0.685,1.034-1.951,0.349-2.828l-4.03-5.164c-0.601-0.77-1.667-0.999-2.528-0.543l-6.927,3.652  c-0.549,0.29-0.934,0.815-1.043,1.426c-0.11,0.611,0.067,1.237,0.481,1.7l4.433,4.958c0.315,0.352,0.727,0.562,1.158,0.636  C25.059,37.982,26,37.495,26.807,37.026z' }),
-	        _react2.default.createElement('path', { d: 'M81.625,36.828c-1.277,0-2.54,0.283-3.752,0.841c-0.837,0.385-1.578,0.581-2.203,0.581c-0.901,0-1.583-0.404-2.446-0.916  c-0.965-0.571-2.165-1.283-3.735-1.283c-0.959,0-1.919,0.26-2.922,0.793c-0.012-0.111-0.021-0.219-0.03-0.316  c-0.2-2.144-0.614-6.604-5.48-6.604c-0.1,0-0.203,0.002-0.307,0.006c-2.857,0.117-4.908,0.832-6.406,1.354  c-0.914,0.318-1.635,0.569-2.167,0.569c-0.285,0-0.661-0.068-1.287-0.573c-1.68-1.357-3.811-2.074-6.161-2.074  c-2.66,0-5.239,0.923-7.006,2.489c-0.629,0.209-2.03,0.62-3.299,0.62c-0.427,0-0.794-0.049-1.064-0.143  c-0.417-0.145-0.864-0.218-1.328-0.218c-1.95,0-3.988,1.357-5.056,2.618c-0.078,0.092-0.151,0.184-0.219,0.276  c-0.306-0.033-0.653-0.075-0.994-0.117c-1.226-0.15-2.751-0.336-4.162-0.336c-1.252,0-2.249,0.148-3.047,0.452  c-3.394,1.293-6.22,6.65-5.502,9.169c0.206,0.724,0.798,1.272,1.536,1.422l2.915,0.594c-0.141,1.706-0.37,4.213-0.593,5.47  c-0.144,0.812,0.07,1.61,0.604,2.247c0.708,0.845,2.066,1.707,6.772,1.707c1.488,0,2.684-0.088,2.734-0.092  c0.363-0.028,0.711-0.152,1.008-0.361c0.412-0.29,0.934-0.58,1.376-0.779c-0.003,0.139-0.008,0.283-0.013,0.429  c-0.043,1.341-0.104,3.176,1.224,4.546c0.97,1.003,2.426,1.49,4.45,1.489c0.298,0,0.618-0.011,0.959-0.032  c0.298-0.019,0.575-0.028,0.832-0.028c1.5,0,1.872,0.312,1.877,0.312c0.066,0.129,0.054,0.602,0.047,0.855  c-0.009,0.328-0.018,0.667,0.031,1.026c0.379,2.784,3.686,5.136,7.219,5.136c2.292,0,4.315-0.993,5.697-2.798  c0.454-0.592,0.543-1.386,0.232-2.063c-0.869-1.901-2.249-6.473-0.964-8.473c0.189-0.296,0.771-1.199,3.172-1.199  c0.134,0,0.271,0.002,0.412,0.008c8.848,0.36,11.082,3.128,11.09,3.128v-0.001c0.06,0.095,0.126,0.185,0.2,0.269l2.771,3.148  c0.61,0.693,1.615,0.883,2.435,0.461c0.821-0.423,1.25-1.35,1.041-2.249c-0.632-2.709-0.762-5.847-0.304-6.721  c0.715,0.015,1.436,0.125,2.194,0.242c0.86,0.133,1.75,0.27,2.684,0.27c2.651,0,4.767-1.156,6.653-3.638  c0.792-1.042,2.246-2.953,2.777-3.274c0.216,0.031,0.725,0.205,1.009,0.304c1.721,0.59,3.268-0.526,3.267-2.134  C90.395,40.821,86.296,36.828,81.625,36.828z M25.301,42.223c-3.347-3.393,0.534-4.427,2.254-5.67  c1.23-0.888,3.944-4.893,6.012,1.23C35.274,42.838,27.408,44.36,25.301,42.223z M40.294,52.825  c-2.605-1.608,1.435-4.577,3.621-3.688C48.27,50.905,45.493,56.036,40.294,52.825z M49.63,40.429  c-3.849,1.753-4.778-0.812-6.756-4.021c-0.613-0.993-2.01-3.763,1.154-4.917c3.165-1.155,4.875,1.667,5.602,3.08  C50.357,35.982,52.687,39.037,49.63,40.429z M70.653,47.007c-4.153,0.344-5.848,1.932-7.618-1.524  c-1.185-2.314-0.169-4.571,2.795-4.401c0.887,0.05,2.102-0.084,3.215-1.528C72.178,35.495,77.173,46.466,70.653,47.007z' })
-	      )
+	      _react2.default.createElement('img', { src: '/images/poutineer.png' })
 	    ),
 	    _react2.default.createElement(
 	      'nav',
@@ -36869,15 +36852,9 @@
 	
 	var _recompose = __webpack_require__(325);
 	
-	var _classnames = __webpack_require__(342);
-	
-	var _classnames2 = _interopRequireDefault(_classnames);
-	
-	var _googleMapsReact = __webpack_require__(343);
-	
 	var _utils = __webpack_require__(336);
 	
-	var _home = __webpack_require__(358);
+	var _home = __webpack_require__(342);
 	
 	var _home2 = _interopRequireDefault(_home);
 	
@@ -36892,7 +36869,7 @@
 	  };
 	};
 	
-	exports.default = (0, _recompose.compose)((0, _reactRedux.connect)(mapStateToProps, {}), (0, _recompose.withHandlers)({}), (0, _recompose.lifecycle)({
+	exports.default = (0, _recompose.compose)((0, _recompose.lifecycle)({
 	  componentDidMount: function componentDidMount() {
 	    (0, _utils.setDocumentTitle)('Poutineer');
 	  }
@@ -36902,63 +36879,165 @@
 /* 342 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
-	  Copyright (c) 2016 Jed Watson.
-	  Licensed under the MIT License (MIT), see
-	  http://jedwatson.github.io/classnames
-	*/
-	/* global define */
+	'use strict';
 	
-	(function () {
-		'use strict';
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
 	
-		var hasOwn = {}.hasOwnProperty;
+	var _react = __webpack_require__(6);
 	
-		function classNames () {
-			var classes = [];
+	var _react2 = _interopRequireDefault(_react);
 	
-			for (var i = 0; i < arguments.length; i++) {
-				var arg = arguments[i];
-				if (!arg) continue;
+	var _reactRedux = __webpack_require__(262);
 	
-				var argType = typeof arg;
+	var _map = __webpack_require__(343);
 	
-				if (argType === 'string' || argType === 'number') {
-					classes.push(arg);
-				} else if (Array.isArray(arg)) {
-					classes.push(classNames.apply(null, arg));
-				} else if (argType === 'object') {
-					for (var key in arg) {
-						if (hasOwn.call(arg, key) && arg[key]) {
-							classes.push(key);
-						}
-					}
-				}
-			}
+	var _map2 = _interopRequireDefault(_map);
 	
-			return classes.join(' ');
-		}
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
-		if (typeof module !== 'undefined' && module.exports) {
-			module.exports = classNames;
-		} else if (true) {
-			// register as 'classnames', consistent with npm package name
-			!(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = function () {
-				return classNames;
-			}.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
-		} else {
-			window.classNames = classNames;
-		}
-	}());
-
+	exports.default = function () {
+	  return _react2.default.createElement(
+	    'div',
+	    { className: 'view-container index' },
+	    _react2.default.createElement(
+	      'div',
+	      { style: { width: '100%', height: '100%', position: 'relative' } },
+	      _react2.default.createElement(_map2.default, null)
+	    )
+	  );
+	};
 
 /***/ }),
 /* 343 */
 /***/ (function(module, exports, __webpack_require__) {
 
+	'use strict';
+	
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+	
+	var _react = __webpack_require__(6);
+	
+	var _react2 = _interopRequireDefault(_react);
+	
+	var _reactRedux = __webpack_require__(262);
+	
+	var _recompose = __webpack_require__(325);
+	
+	var _googleMapsReact = __webpack_require__(344);
+	
+	var _map = __webpack_require__(260);
+	
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+	
+	var Markers = function Markers(places, onMarkerClick) {
+	  return places.map(function (r, i) {
+	    return _react2.default.createElement(_googleMapsReact.Marker, {
+	      key: i,
+	      name: r.name,
+	      onClick: onMarkerClick,
+	      position: { lat: r.geometry.location.lat(), lng: r.geometry.location.lng() } });
+	  });
+	};
+	
+	var MapContainer = function MapContainer(_ref) {
+	  var location = _ref.location,
+	      google = _ref.google,
+	      onMapReady = _ref.onMapReady,
+	      markers = _ref.markers,
+	      places = _ref.places,
+	      ui = _ref.ui,
+	      onMapClicked = _ref.onMapClicked,
+	      onMarkerClick = _ref.onMarkerClick;
+	
+	  if (!location || !google) {
+	    return null;
+	  }
+	  return _react2.default.createElement(
+	    _googleMapsReact.Map,
+	    {
+	      google: google,
+	      zoom: 16,
+	      onReady: onMapReady,
+	      location: location,
+	      onClick: onMapClicked,
+	      initialCenter: { lat: location.latitude, lng: location.longitude } },
+	    Markers(places, onMarkerClick),
+	    _react2.default.createElement(
+	      _googleMapsReact.InfoWindow,
+	      {
+	        marker: ui.activeMarker,
+	        visible: ui.showInfo },
+	      _react2.default.createElement(
+	        'div',
+	        null,
+	        _react2.default.createElement(
+	          'h1',
+	          null,
+	          ui.selectedPlace.name
+	        )
+	      )
+	    )
+	  );
+	};
+	
+	var mapStateToProps = function mapStateToProps(_ref2) {
+	  var sessionReducer = _ref2.sessionReducer,
+	      mapReducer = _ref2.mapReducer;
+	
+	  return {
+	    location: sessionReducer.location,
+	    places: mapReducer.places
+	  };
+	};
+	
+	exports.default = (0, _recompose.compose)((0, _reactRedux.connect)(mapStateToProps, {
+	  getPlaces: _map.getPlaces
+	}), (0, _googleMapsReact.GoogleApiWrapper)({
+	  apiKey: 'AIzaSyAz3S_jP5IZtvAnp8XSmqh2MXqYw0bxp7o'
+	}), (0, _recompose.withState)('ui', 'setUi', { showInfo: false, activeMarker: null, selectedPlace: { name: '' } }), (0, _recompose.withHandlers)({
+	  onMapReady: function onMapReady(_ref3) {
+	    var getPlaces = _ref3.getPlaces,
+	        location = _ref3.location;
+	    return function (mapProps, map) {
+	      getPlaces(mapProps.google, map, location);
+	    };
+	  },
+	  onMarkerClick: function onMarkerClick(_ref4) {
+	    var setUi = _ref4.setUi;
+	    return function (props, marker, e) {
+	      setUi({
+	        selectedPlace: props,
+	        activeMarker: marker,
+	        showInfo: true
+	      });
+	    };
+	  },
+	  onMapClicked: function onMapClicked(_ref5) {
+	    var ui = _ref5.ui,
+	        setUi = _ref5.setUi;
+	    return function (props) {
+	      if (ui.showInfo) {
+	        setUi({
+	          selectedPlace: ui.selectedPlace,
+	          showInfo: false,
+	          activeMarker: null
+	        });
+	      }
+	    };
+	  }
+	}))(MapContainer);
+
+/***/ }),
+/* 344 */
+/***/ (function(module, exports, __webpack_require__) {
+
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	  if (true) {
-	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(344), __webpack_require__(348), __webpack_require__(350), __webpack_require__(355), __webpack_require__(356), __webpack_require__(6), __webpack_require__(264), __webpack_require__(42), __webpack_require__(349), __webpack_require__(357), __webpack_require__(270)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(345), __webpack_require__(349), __webpack_require__(351), __webpack_require__(356), __webpack_require__(357), __webpack_require__(6), __webpack_require__(264), __webpack_require__(42), __webpack_require__(350), __webpack_require__(358), __webpack_require__(270)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	  } else if (typeof exports !== "undefined") {
 	    factory(exports, require('./GoogleApiComponent'), require('./components/Marker'), require('./components/InfoWindow'), require('./components/HeatMap'), require('./components/Polygon'), require('react'), require('prop-types'), require('react-dom'), require('./lib/String'), require('./lib/cancelablePromise'), require('invariant'));
 	  } else {
@@ -37368,12 +37447,12 @@
 	});
 
 /***/ }),
-/* 344 */
+/* 345 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	    if (true) {
-	        !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(42), __webpack_require__(345), __webpack_require__(347)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	        !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(42), __webpack_require__(346), __webpack_require__(348)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	    } else if (typeof exports !== "undefined") {
 	        factory(exports, require('react'), require('react-dom'), require('./lib/ScriptCache'), require('./lib/GoogleApi'));
 	    } else {
@@ -37530,12 +37609,12 @@
 	});
 
 /***/ }),
-/* 345 */
+/* 346 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	    if (true) {
-	        !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(346)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	        !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(347)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	    } else if (typeof exports !== "undefined") {
 	        factory(exports, require('./windowOrGlobal'));
 	    } else {
@@ -37675,7 +37754,7 @@
 	});
 
 /***/ }),
-/* 346 */
+/* 347 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/* WEBPACK VAR INJECTION */(function(global) {(function (global, factory) {
@@ -37704,7 +37783,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 347 */
+/* 348 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
@@ -37785,12 +37864,12 @@
 	});
 
 /***/ }),
-/* 348 */
+/* 349 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	  if (true) {
-	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(264), __webpack_require__(349)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(264), __webpack_require__(350)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	  } else if (typeof exports !== "undefined") {
 	    factory(exports, require('react'), require('prop-types'), require('../lib/String'));
 	  } else {
@@ -37997,7 +38076,7 @@
 	});
 
 /***/ }),
-/* 349 */
+/* 350 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
@@ -38026,12 +38105,12 @@
 	});
 
 /***/ }),
-/* 350 */
+/* 351 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	  if (true) {
-	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(264), __webpack_require__(42), __webpack_require__(351)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(264), __webpack_require__(42), __webpack_require__(352)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	  } else if (typeof exports !== "undefined") {
 	    factory(exports, require('react'), require('prop-types'), require('react-dom'), require('react-dom/server'));
 	  } else {
@@ -38249,16 +38328,16 @@
 	});
 
 /***/ }),
-/* 351 */
+/* 352 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 	
-	module.exports = __webpack_require__(352);
+	module.exports = __webpack_require__(353);
 
 
 /***/ }),
-/* 352 */
+/* 353 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/**
@@ -38274,7 +38353,7 @@
 	'use strict';
 	
 	var ReactDefaultInjection = __webpack_require__(48);
-	var ReactServerRendering = __webpack_require__(353);
+	var ReactServerRendering = __webpack_require__(354);
 	var ReactVersion = __webpack_require__(182);
 	
 	ReactDefaultInjection.inject();
@@ -38288,7 +38367,7 @@
 	module.exports = ReactDOMServer;
 
 /***/ }),
-/* 353 */
+/* 354 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(process) {/**
@@ -38310,7 +38389,7 @@
 	var ReactInstrumentation = __webpack_require__(72);
 	var ReactMarkupChecksum = __webpack_require__(180);
 	var ReactReconciler = __webpack_require__(69);
-	var ReactServerBatchingStrategy = __webpack_require__(354);
+	var ReactServerBatchingStrategy = __webpack_require__(355);
 	var ReactServerRenderingTransaction = __webpack_require__(144);
 	var ReactUpdates = __webpack_require__(66);
 	
@@ -38383,7 +38462,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(8)))
 
 /***/ }),
-/* 354 */
+/* 355 */
 /***/ (function(module, exports) {
 
 	/**
@@ -38409,12 +38488,12 @@
 	module.exports = ReactServerBatchingStrategy;
 
 /***/ }),
-/* 355 */
+/* 356 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	  if (true) {
-	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(264), __webpack_require__(349)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(264), __webpack_require__(350)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	  } else if (typeof exports !== "undefined") {
 	    factory(exports, require('react'), require('prop-types'), require('../lib/String'));
 	  } else {
@@ -38625,12 +38704,12 @@
 	});
 
 /***/ }),
-/* 356 */
+/* 357 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
 	  if (true) {
-	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(349)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [exports, __webpack_require__(6), __webpack_require__(350)], __WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
 	  } else if (typeof exports !== "undefined") {
 	    factory(exports, require('react'), require('../lib/String'));
 	  } else {
@@ -38837,7 +38916,7 @@
 	});
 
 /***/ }),
-/* 357 */
+/* 358 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;(function (global, factory) {
@@ -38882,163 +38961,7 @@
 	});
 
 /***/ }),
-/* 358 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	'use strict';
-	
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-	
-	var _react = __webpack_require__(6);
-	
-	var _react2 = _interopRequireDefault(_react);
-	
-	var _reactRedux = __webpack_require__(262);
-	
-	var _map = __webpack_require__(359);
-	
-	var _map2 = _interopRequireDefault(_map);
-	
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-	
-	exports.default = function () {
-	  return _react2.default.createElement(
-	    'div',
-	    { className: 'view-container index' },
-	    _react2.default.createElement(
-	      'div',
-	      { style: { width: '100%', height: '100%', position: 'relative' } },
-	      _react2.default.createElement(_map2.default, null)
-	    )
-	  );
-	};
-
-/***/ }),
 /* 359 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	'use strict';
-	
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-	
-	var _react = __webpack_require__(6);
-	
-	var _react2 = _interopRequireDefault(_react);
-	
-	var _reactRedux = __webpack_require__(262);
-	
-	var _recompose = __webpack_require__(325);
-	
-	var _googleMapsReact = __webpack_require__(343);
-	
-	var _map = __webpack_require__(260);
-	
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-	
-	var Markers = function Markers(places, onMarkerClick) {
-	  return places.map(function (r, i) {
-	    return _react2.default.createElement(_googleMapsReact.Marker, {
-	      key: i,
-	      name: r.name,
-	      onClick: onMarkerClick,
-	      position: { lat: r.geometry.location.lat(), lng: r.geometry.location.lng() } });
-	  });
-	};
-	
-	var MapContainer = function MapContainer(_ref) {
-	  var location = _ref.location,
-	      google = _ref.google,
-	      onMapReady = _ref.onMapReady,
-	      markers = _ref.markers,
-	      places = _ref.places,
-	      ui = _ref.ui,
-	      onMapClicked = _ref.onMapClicked,
-	      onMarkerClick = _ref.onMarkerClick;
-	
-	  if (!location || !google) {
-	    return null;
-	  }
-	  return _react2.default.createElement(
-	    _googleMapsReact.Map,
-	    {
-	      google: google,
-	      zoom: 16,
-	      onReady: onMapReady,
-	      location: location,
-	      onClick: onMapClicked,
-	      initialCenter: { lat: location.latitude, lng: location.longitude } },
-	    Markers(places, onMarkerClick),
-	    _react2.default.createElement(
-	      _googleMapsReact.InfoWindow,
-	      {
-	        marker: ui.activeMarker,
-	        visible: ui.showInfo },
-	      _react2.default.createElement(
-	        'div',
-	        null,
-	        _react2.default.createElement(
-	          'h1',
-	          null,
-	          ui.selectedPlace.name
-	        )
-	      )
-	    )
-	  );
-	};
-	
-	var mapStateToProps = function mapStateToProps(_ref2) {
-	  var sessionReducer = _ref2.sessionReducer,
-	      mapReducer = _ref2.mapReducer;
-	
-	  return {
-	    location: sessionReducer.location,
-	    places: mapReducer.places
-	  };
-	};
-	
-	exports.default = (0, _recompose.compose)((0, _reactRedux.connect)(mapStateToProps, {
-	  getPlaces: _map.getPlaces
-	}), (0, _googleMapsReact.GoogleApiWrapper)({
-	  apiKey: 'AIzaSyAz3S_jP5IZtvAnp8XSmqh2MXqYw0bxp7o'
-	}), (0, _recompose.withState)('ui', 'setUi', { showInfo: false, activeMarker: null, selectedPlace: { name: '' } }), (0, _recompose.withHandlers)({
-	  onMapReady: function onMapReady(_ref3) {
-	    var getPlaces = _ref3.getPlaces,
-	        location = _ref3.location;
-	    return function (mapProps, map) {
-	      getPlaces(mapProps.google, map, location);
-	    };
-	  },
-	  onMarkerClick: function onMarkerClick(_ref4) {
-	    var setUi = _ref4.setUi;
-	    return function (props, marker, e) {
-	      setUi({
-	        selectedPlace: props,
-	        activeMarker: marker,
-	        showInfo: true
-	      });
-	    };
-	  },
-	  onMapClicked: function onMapClicked(_ref5) {
-	    var ui = _ref5.ui,
-	        setUi = _ref5.setUi;
-	    return function (props) {
-	      if (ui.showInfo) {
-	        setUi({
-	          selectedPlace: ui.selectedPlace,
-	          showInfo: false,
-	          activeMarker: null
-	        });
-	      }
-	    };
-	  }
-	}))(MapContainer);
-
-/***/ }),
-/* 360 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -39059,7 +38982,7 @@
 	
 	var _registrations = __webpack_require__(258);
 	
-	var _registrations2 = __webpack_require__(361);
+	var _registrations2 = __webpack_require__(360);
 	
 	var _registrations3 = _interopRequireDefault(_registrations2);
 	
@@ -39133,7 +39056,7 @@
 	}))(_registrations3.default);
 
 /***/ }),
-/* 361 */
+/* 360 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -39266,7 +39189,7 @@
 	};
 
 /***/ }),
-/* 362 */
+/* 361 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -39287,7 +39210,7 @@
 	
 	var _sessions = __webpack_require__(255);
 	
-	var _sessions2 = __webpack_require__(363);
+	var _sessions2 = __webpack_require__(362);
 	
 	var _sessions3 = _interopRequireDefault(_sessions2);
 	
@@ -39350,7 +39273,7 @@
 	}))(_sessions3.default);
 
 /***/ }),
-/* 363 */
+/* 362 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';

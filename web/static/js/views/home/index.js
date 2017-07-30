@@ -1,8 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { compose, withHandlers, withState, lifecycle } from 'recompose';
-import classnames from 'classnames';
-import {GoogleApiWrapper} from 'google-maps-react';
 
 import { setDocumentTitle } from '../../utils';
 
@@ -16,10 +14,6 @@ const mapStateToProps = ({ sessionReducer }) => {
 };
 
 export default compose(
-  connect(mapStateToProps, {}),
-  withHandlers({
-
-  }),
   lifecycle({
     componentDidMount() {      
       setDocumentTitle('Poutineer');
