@@ -11,7 +11,8 @@ export default ({
     <div className='view-container sessions new'>
       <main>
         <header>
-          <div className="logo" />
+          <img src="/images/poutineer.png"/>
+          <h1>Poutineer</h1>
         </header>
         <form id="sign_in_form" onSubmit={handleSubmit}>
           {renderError()}
@@ -35,7 +36,7 @@ export default ({
           </div>
           <button type="submit">Sign in</button>
         </form>
-        <Link to="/sign_up">Create new account</Link>
+        <p>What are you waiting for? <Link to="/sign_up">Create new account</Link>, eh!</p>
       </main>
     </div>
   );

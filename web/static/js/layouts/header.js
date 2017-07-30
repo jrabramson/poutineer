@@ -15,7 +15,7 @@ const _navLoggedIn = (currentUser, onSignOut) => {
         {_renderCurrentUser(currentUser)}
       </li>
       <li>
-        <a href="#" onClick={_handleSignOutClick(onSignOut)}><i className="fa fa-sign-out"/> Sign out</a>
+        <a href="#" onClick={_handleSignOutClick(onSignOut)}> Sign out</a>
       </li>
     </ul>
   );
@@ -25,10 +25,10 @@ const _navLoggedOut = () => {
   return (
     <ul>
       <li>
-        <Link to="/sign_in" className="fa fa-sign-in">Sign In</Link>
+        <Link to="/sign_in">Sign In</Link>
       </li>
       <li>
-        <Link to="/sign_up" className="fa fa-sign-up">Sign Up</Link>
+        <Link to="/sign_up">Sign Up</Link>
       </li>
     </ul>
   );

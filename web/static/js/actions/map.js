@@ -8,7 +8,7 @@ export const getPlaces = (google, map, location) => dispatch => {
   const service = new google.maps.places.PlacesService(map);
   var request = {
     location: new google.maps.LatLng(location.latitude, location.longitude),
-    radius: '500',
+    radius: '1500',
     keyword: 'poutine'
 
   };

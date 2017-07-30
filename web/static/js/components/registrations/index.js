@@ -16,6 +16,7 @@ export default ({
       <main>
         <header>
           <div className="logo" />
+          <h1>Poutineer</h1>
         </header>
         <form id="sign_up_form" onSubmit={handleSubmit}>
           <div className="field">
@@ -65,7 +66,7 @@ export default ({
           </div>
           <button type="submit">Sign up</button>
         </form>
-        <Link to="/sign_in">Sign in</Link>
+        <p>Already have an account? <Link to="/sign_in">Sign in</Link> instead.</p>
       </main>
     </div>
   );
